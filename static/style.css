@@ -1,0 +1,26 @@
+@import url('https://fonts.googleapis.com/css2?family=Overpass:wght@300&display=swap');
+.checked {
+    color: red;
+}
+.dz
+{
+    border: dashed !important;
+    border-color: #ccc;
+    border-radius: 10px;
+}
+.dz:hover
+{
+    background-color: aliceblue;
+}
+.my-btn {
+    background-color: inherit !important;
+    border: 0 !important;
+}
+.mark
+{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    text-align: center;
+}

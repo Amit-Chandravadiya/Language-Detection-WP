@@ -1,0 +1,1 @@
+web: gunicorn LangDet.wsgi --log-file -
